@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_additional_informations_additional_informations",
+  "info": {
+    "displayName": "additional informations",
+    "icon": "plus"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "data": {
+      "type": "json"
+    },
+    "discountPercent": {
+      "type": "float",
+      "min": 0,
+      "max": 100
+    }
+  }
+}

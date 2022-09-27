@@ -10698,6 +10698,11 @@ strapi-plugin-menus@^1.0.2:
     react-select "^5.2.2"
     styled-components "^5.3.3"
 
+strapi-plugin-transformer@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/strapi-plugin-transformer/-/strapi-plugin-transformer-2.1.0.tgz#4e158085add50430f868404338833ae9babf66d3"
+  integrity sha512-Q4StiLZa495DU+PQMox57i5PJd4T5mCxaGEXh8DtMIkwHdI+Jh47IvzHpeVEAVy5quJGGxhUJ4S7l9elIXej7Q==
+
 stream-browserify@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/stream-browserify/-/stream-browserify-3.0.0.tgz#22b0a2850cdf6503e73085da1fc7b7d0c2122f2f"

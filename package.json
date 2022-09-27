@@ -21,6 +21,7 @@
     "pg-connection-string": "^2.5.0",
     "sqlite3": "5.0.2",
     "strapi-plugin-menus": "^1.0.2",
+    "strapi-plugin-transformer": "^2.1.0",
     "uuidv4": "^6.2.12"
   },
   "author": {
